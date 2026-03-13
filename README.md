@@ -133,7 +133,7 @@ A solution to the famous **Dining Philosophers concurrency problem**.
 
 ### Docker Infrastructure Project
 
-![docker](inception.png)
+![docker](images/inception.png)
 
 A complete **containerized infrastructure** built with Docker.
 
