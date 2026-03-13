@@ -50,7 +50,7 @@ My journey at **1337 / 42 Network** has trained me to solve complex problems, un
 
 ### Real-Time Multiplayer Soccer Game
 
-![transcendence](https://images.unsplash.com/photo-1574629810360-7efbbe195018)
+![transcendence](images/trans.png)
 
 A **real-time multiplayer soccer game website** built with modern full-stack technologies.
 
@@ -84,7 +84,7 @@ A **real-time multiplayer soccer game website** built with modern full-stack tec
 
 ### Custom Bash-Like Shell
 
-![shell](https://images.unsplash.com/photo-1555066931-4365d14bab8c)
+![shell](images/minish.png)
 
 A **Unix shell written in C** that replicates many behaviors of Bash.
 
@@ -109,7 +109,7 @@ A **Unix shell written in C** that replicates many behaviors of Bash.
 
 ### Dining Philosophers Problem
 
-![threads](https://images.unsplash.com/photo-1518770660439-4636190af475)
+![threads](images/philosophers.png)
 
 A solution to the famous **Dining Philosophers concurrency problem**.
 
@@ -133,7 +133,7 @@ A solution to the famous **Dining Philosophers concurrency problem**.
 
 ### Docker Infrastructure Project
 
-![docker](https://images.unsplash.com/photo-1605745341112-85968b19335b)
+![docker](inception.png)
 
 A complete **containerized infrastructure** built with Docker.
 
