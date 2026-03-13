@@ -1,11 +1,11 @@
 # ==================== BASIC INFO ====================
 title: Mohammed Amine Izem
 description: Software Engineering Student @1337 | Full Stack & Real-time Systems Developer
-url: "https://mizemm.github.io"
-baseurl: ""                    # Leave empty for root domain
+# url: "https://mizemm.github.io"
+# baseurl: ""                    # Leave empty for root domain
 
 # ==================== PERSONAL INFO ====================
-author: Mohammed Amine Izem
+# author: Mohammed Amine Izem
 email: amineshady6@gmail.com
 location: Tetouan, Morocco
 
