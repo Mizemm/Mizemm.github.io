@@ -8,11 +8,12 @@ description: Software Engineering Student @1337 | Full Stack & Real-time Systems
 # author: Mohammed Amine Izem
 email: amineshady6@gmail.com
 location: Tetouan, Morocco
-
+header_img: images/mizem.jpeg
 # ==================== SOCIAL LINKS ====================
-github_username: Mizemm
-linkedin_username: moe-amine-izem-199044266
-
+minima:
+  social_links:
+    github: Mizemm
+    linkedin: moe-amine-izem-199044266
 # ==================== THEME & BUILD SETTINGS ====================
 theme: minima                  # Simple clean theme (you can change later)
 
