@@ -1,7 +1,3 @@
-# Mohammed Amine Izem
-
-### Software Engineering Student @ 1337 (42 Network)
-
 I’m a developer from **Morocco** focused on building **functional, high-performance applications**.
 My journey at **1337 / 42 Network** has trained me to solve complex problems, understand systems deeply, and write **clean, maintainable code**.
 
@@ -175,7 +171,7 @@ A complete **containerized infrastructure** built with Docker.
 # 📫 Connect With Me
 
 **LinkedIn**
-https://linkedin.com/in/moe-amine-izem-199044266
+(https://linkedin.com/in/moe-amine-izem-199044266)
 
 **Email**
 [amineshady6@gmail.com](mailto:amineshady6@gmail.com)
