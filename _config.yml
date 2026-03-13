@@ -1,0 +1,27 @@
+# ==================== BASIC INFO ====================
+title: Mohammed Amine Izem
+description: Software Engineering Student @1337 | Full Stack & Real-time Systems Developer
+url: "https://mizemm.github.io"
+baseurl: ""                    # Leave empty for root domain
+
+# ==================== PERSONAL INFO ====================
+author: Mohammed Amine Izem
+email: amineshady6@gmail.com
+location: Tetouan, Morocco
+
+# ==================== SOCIAL LINKS ====================
+github_username: Mizemm
+linkedin_username: moe-amine-izem-199044266
+
+# ==================== THEME & BUILD SETTINGS ====================
+theme: minima                  # Simple clean theme (you can change later)
+
+# Optional: Better SEO and appearance
+show_excerpts: true
+timezone: Africa/Casablanca
+
+# ==================== NAVIGATION MENU ====================
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
