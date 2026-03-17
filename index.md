@@ -14,24 +14,6 @@ layout: default
           My journey at <strong>1337 / 42 Network</strong> has trained me to solve complex problems, understand systems deeply, 
           and write <strong>clean, maintainable code</strong>.
         </p>
-        <div class="hero-stats">
-          <div class="stat-item">
-            <span class="stat-icon">🎓</span>
-            <span class="stat-text">Software Engineering Student at 1337</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-icon">🌍</span>
-            <span class="stat-text">Based in Tetouan, Morocco</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-icon">🧠</span>
-            <span class="stat-text">Passionate about systems programming</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-icon">⚙️</span>
-            <span class="stat-text">Experienced with OS-level programming</span>
-          </div>
-        </div>
       </div>
     </div>
     <div class="hero-image">
