@@ -245,28 +245,28 @@ section {
   display: flex;
   align-items: center;
   gap: 1rem;
-  background: rgba(59, 130, 246, 0.1);
+  background: rgba(245, 158, 11, 0.1);
   padding: 1.5rem;
   border-radius: 16px;
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(59, 130, 246, 0.3);
+  border: 1px solid rgba(245, 158, 11, 0.3);
   transition: all 0.3s ease;
-  border-left: 4px solid var(--primary-color);
+  border-left: 4px solid var(--accent-color);
 }
 
 .stat-item:hover {
   transform: translateX(5px);
-  background: rgba(59, 130, 246, 0.15);
-  box-shadow: 0 10px 20px rgba(59, 130, 246, 0.2);
+  background: rgba(245, 158, 11, 0.15);
+  box-shadow: 0 10px 20px rgba(245, 158, 11, 0.2);
 }
 
 .stat-icon {
   font-size: 2rem;
-  color: var(--primary-color);
-  background: rgba(59, 130, 246, 0.2);
+  color: var(--accent-color);
+  background: rgba(245, 158, 11, 0.2);
   padding: 1rem;
   border-radius: 12px;
-  border: 1px solid rgba(59, 130, 246, 0.4);
+  border: 1px solid rgba(245, 158, 11, 0.4);
 }
 
 .stat-text {
