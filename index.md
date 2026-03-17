@@ -174,7 +174,7 @@ layout: default
           <span class="contact-icon">💼</span>
           <div>
             <h4>LinkedIn</h4>
-            <p><a href="https://linkedin.com/in/moe-amine-izem-199044266" target="_blank">Connect with me</a></p>
+            <p><a href="https://linkedin.com/in/mizemm" target="_blank">Connect with me</a></p>
           </div>
         </div>
       </div>
@@ -182,7 +182,7 @@ layout: default
         <p>Interested in working together? Let's connect and discuss how I can contribute to your projects!</p>
         <div class="social-links">
           <a href="https://github.com/Mizemm" target="_blank" class="social-btn">GitHub Profile</a>
-          <a href="https://linkedin.com/in/moe-amine-izem-199044266" target="_blank" class="social-btn">LinkedIn</a>
+          <a href="https://linkedin.com/in/mizemm" target="_blank" class="social-btn">LinkedIn</a>
         </div>
       </div>
     </div>
