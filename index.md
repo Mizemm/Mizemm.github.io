@@ -33,10 +33,6 @@ layout: default
           </div>
         </div>
       </div>
-      <div class="hero-buttons">
-        <a href="#projects" class="btn btn-primary">View My Work</a>
-        <a href="#contact" class="btn btn-secondary">Get In Touch</a>
-      </div>
     </div>
     <div class="hero-image">
       <img src="images/mizem.jpeg" alt="Mohammed Amine Izem" class="profile-photo">
