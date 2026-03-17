@@ -105,30 +105,6 @@ A **Unix shell written in C** that replicates many behaviors of Bash.
 
 ---
 
-## 🍝 Philosophers
-
-### Dining Philosophers Problem
-
-![threads](images/philosophers.png)
-
-A solution to the famous **Dining Philosophers concurrency problem**.
-
-### Core Concepts
-
-* Threads
-* Mutexes
-* Deadlock prevention
-* Synchronization
-* Timing precision
-
-### What It Demonstrates
-
-* Strong knowledge of **multithreading**
-* Correct **resource management**
-* Prevention of **data races and deadlocks**
-
----
-
 ## 🐳 Inception
 
 ### Docker Infrastructure Project
