@@ -2,12 +2,12 @@
 
 /* CSS Variables for consistent theming */
 :root {
-  --primary-color: #2563eb;
+  --primary-color: #1e40af;
   --secondary-color: #64748b;
-  --accent-color: #f59e0b;
+  --accent-color: #60a5fa;
   --text-color: #1e293b;
   --light-text: #f8fafc;
-  --bg-color: #f1f5f9;
+  --bg-color: #f8fafc;
   --card-bg: #ffffff;
   --border-color: #e2e8f0;
   --shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
@@ -158,7 +158,7 @@ section {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #1e40af 0%, #60a5fa 100%);
   color: white;
   min-height: 80vh;
   display: flex;
@@ -174,7 +174,7 @@ section {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 
@@ -201,26 +201,44 @@ section {
   opacity: 0.9;
 }
 
+.hero-about {
+  margin-bottom: 2rem;
+}
+
+.hero-about p {
+  font-size: 1.125rem;
+  margin-bottom: 1.5rem;
+  color: rgba(255, 255, 255, 0.95);
+  line-height: 1.6;
+}
+
 .hero-stats {
-  display: flex;
-  gap: 2rem;
-  margin-bottom: 3rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
 }
 
 .stat-item {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.75rem;
+  border-radius: 8px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-.stat-number {
-  display: block;
-  font-size: 2rem;
-  font-weight: bold;
+.stat-icon {
+  font-size: 1.25rem;
   color: var(--accent-color);
 }
 
-.stat-label {
+.stat-text {
+  color: white;
+  font-weight: 600;
   font-size: 0.875rem;
-  opacity: 0.8;
 }
 
 .hero-buttons {

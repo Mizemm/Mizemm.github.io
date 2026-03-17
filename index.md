@@ -8,18 +8,29 @@ layout: default
     <div class="hero-text">
       <h1 class="hero-title">Mohammed Amine Izem</h1>
       <p class="hero-subtitle">Software Engineering Student @1337 | Full Stack & Real-time Systems Developer</p>
-      <div class="hero-stats">
-        <div class="stat-item">
-          <span class="stat-number">3</span>
-          <span class="stat-label">Major Projects</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-number">42</span>
-          <span class="stat-label">Network Graduate</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-number">100%</span>
-          <span class="stat-label">Passion for Code</span>
+      <div class="hero-about">
+        <p>
+          I'm a developer from <strong>Morocco</strong> focused on building <strong>functional, high-performance applications</strong>.
+          My journey at <strong>1337 / 42 Network</strong> has trained me to solve complex problems, understand systems deeply, 
+          and write <strong>clean, maintainable code</strong>.
+        </p>
+        <div class="hero-stats">
+          <div class="stat-item">
+            <span class="stat-icon">🎓</span>
+            <span class="stat-text">Software Engineering Student at 1337</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-icon">🌍</span>
+            <span class="stat-text">Based in Tetouan, Morocco</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-icon">🧠</span>
+            <span class="stat-text">Passionate about systems programming</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-icon">⚙️</span>
+            <span class="stat-text">Experienced with OS-level programming</span>
+          </div>
         </div>
       </div>
       <div class="hero-buttons">
@@ -156,50 +167,6 @@ layout: default
             <span class="feature">Production-ready</span>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- About Section -->
-<section class="about">
-  <div class="container">
-    <h2 class="section-title">About Me</h2>
-    <div class="about-content">
-      <div class="about-text">
-        <p>
-          I'm a developer from <strong>Morocco</strong> focused on building <strong>functional, high-performance applications</strong>.
-          My journey at <strong>1337 / 42 Network</strong> has trained me to solve complex problems, understand systems deeply, 
-          and write <strong>clean, maintainable code</strong>.
-        </p>
-        <div class="about-stats">
-          <div class="stat">
-            <span class="stat-icon">🎓</span>
-            <span class="stat-text">Software Engineering Student at 1337</span>
-          </div>
-          <div class="stat">
-            <span class="stat-icon">🌍</span>
-            <span class="stat-text">Based in Tetouan, Morocco</span>
-          </div>
-          <div class="stat">
-            <span class="stat-icon">🧠</span>
-            <span class="stat-text">Passionate about systems programming</span>
-          </div>
-          <div class="stat">
-            <span class="stat-icon">⚙️</span>
-            <span class="stat-text">Experienced with OS-level programming</span>
-          </div>
-        </div>
-      </div>
-      <div class="about-focus">
-        <h3>What I Focus On</h3>
-        <ul class="focus-list">
-          <li>Systems Programming</li>
-          <li>Backend Architecture</li>
-          <li>Real-Time Applications</li>
-          <li>Performance Optimization</li>
-          <li>Clean Code & Maintainability</li>
-        </ul>
       </div>
     </div>
   </div>
