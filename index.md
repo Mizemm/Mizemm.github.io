@@ -152,13 +152,11 @@ layout: default
           </div>
           <h4 class="side-label group-label">// seo &amp; growth</h4>
           <div class="project-features">
-            <span class="feature">Full technical SEO audit — crawlability, indexation, Core Web Vitals — with a follow-up audit to measure impact</span>
-            <span class="feature">Diagnosed and fixed an LCP regression by tracing it to next/image priority hints on above-the-fold images</span>
-            <span class="feature">Verified real-time indexation across all pages via the Search Console URL Inspection API</span>
-            <span class="feature">Implemented &amp; validated JSON-LD structured data: Organization, Service, FAQPage, Breadcrumb, Article</span>
-            <span class="feature">Built a file-based MDX blog engine from scratch — dynamic routing, generateStaticParams/Metadata, auto-discovered sitemap</span>
-            <span class="feature">Long-tail keyword strategy + two fact-checked, dual-audience SEO articles with topic-cluster internal linking</span>
-            <span class="feature">Referral promo system with live countdown — solved SSR/hydration correctness using useSyncExternalStore</span>
+            <span class="feature">Technical SEO audits (crawlability, indexation, Core Web Vitals) — including diagnosing and fixing an LCP regression</span>
+            <span class="feature">JSON-LD structured data: Organization, Service, FAQPage, Breadcrumb, Article</span>
+            <span class="feature">File-based MDX blog engine — dynamic routing, metadata, auto-discovered sitemap</span>
+            <span class="feature">Long-tail keyword strategy with fact-checked articles and topic-cluster internal linking</span>
+            <span class="feature">Referral promo bar with live countdown — SSR-safe state via useSyncExternalStore</span>
           </div>
         </div>
         <div class="spotlight-side">
