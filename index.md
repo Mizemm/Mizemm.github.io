@@ -124,10 +124,56 @@ layout: default
       <span class="section-kicker">03 — Selected Work</span>
       <h2 class="section-title">Featured <span class="gradient-text">Projects</span></h2>
     </div>
+    <div class="card project-spotlight tilt reveal">
+      <div class="spotlight-head">
+        <span class="spotlight-badge">★ Latest</span>
+        <span class="project-index">01</span>
+      </div>
+      <div class="spotlight-body">
+        <div class="spotlight-main">
+          <h3>Vixora</h3>
+          <p class="project-subtitle">SEO-Driven Subscription Platform</p>
+          <p class="project-description">
+            A production subscription platform for the UK market, built on Next.js App Router and deployed
+            on Vercel. I worked across the full stack — technical SEO, performance, content architecture,
+            and growth features.
+          </p>
+          <div class="project-features">
+            <span class="feature">Full technical SEO audit — crawlability, indexation, Core Web Vitals — with a follow-up audit to measure impact</span>
+            <span class="feature">Diagnosed and fixed an LCP regression by tracing it to next/image priority hints on above-the-fold images</span>
+            <span class="feature">Verified real-time indexation across all pages via the Search Console URL Inspection API</span>
+            <span class="feature">Implemented &amp; validated JSON-LD structured data: Organization, Service, FAQPage, Breadcrumb, Article</span>
+            <span class="feature">Built a file-based MDX blog engine from scratch — dynamic routing, generateStaticParams/Metadata, auto-discovered sitemap</span>
+            <span class="feature">Long-tail keyword strategy + two fact-checked, dual-audience SEO articles with topic-cluster internal linking</span>
+            <span class="feature">Referral promo system with live countdown — solved SSR/hydration correctness using useSyncExternalStore</span>
+          </div>
+        </div>
+        <div class="spotlight-side">
+          <h4 class="side-label">// stack</h4>
+          <div class="project-tech">
+            <span class="tech-badge">Next.js 16</span><span class="tech-badge">React 19</span>
+            <span class="tech-badge">TypeScript</span><span class="tech-badge">Tailwind CSS 4</span>
+            <span class="tech-badge">MDX</span><span class="tech-badge">Prisma</span>
+            <span class="tech-badge">PostgreSQL</span><span class="tech-badge">Vercel</span>
+          </div>
+          <h4 class="side-label">// tooling</h4>
+          <div class="project-tech">
+            <span class="tech-badge">Search Console API</span><span class="tech-badge">GA4</span>
+            <span class="tech-badge">Schema.org JSON-LD</span><span class="tech-badge">Vercel Analytics</span>
+          </div>
+          <h4 class="side-label">// skills</h4>
+          <div class="project-tech">
+            <span class="tech-badge">Technical SEO</span><span class="tech-badge">Core Web Vitals</span>
+            <span class="tech-badge">SSR-safe React</span><span class="tech-badge">Content Strategy</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="projects-grid">
       <div class="card project-card tilt reveal">
         <div class="project-image">
-          <span class="project-index">01</span>
+          <span class="project-index">02</span>
           <img src="images/trans.png" alt="ft_transcendence">
         </div>
         <div class="project-content">
@@ -154,7 +200,7 @@ layout: default
 
       <div class="card project-card tilt reveal">
         <div class="project-image">
-          <span class="project-index">02</span>
+          <span class="project-index">03</span>
           <img src="images/minish.png" alt="Minishell">
         </div>
         <div class="project-content">
@@ -181,7 +227,7 @@ layout: default
 
       <div class="card project-card tilt reveal">
         <div class="project-image">
-          <span class="project-index">03</span>
+          <span class="project-index">04</span>
           <img src="images/inception.png" alt="Inception">
         </div>
         <div class="project-content">
