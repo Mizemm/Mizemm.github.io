@@ -129,9 +129,12 @@ layout: default
         <span class="spotlight-badge">★ Latest</span>
         <span class="project-index">01</span>
       </div>
+      <div class="spotlight-image">
+        <img src="images/vixora.png" alt="MyVixora platform">
+      </div>
       <div class="spotlight-body">
         <div class="spotlight-main">
-          <h3>Vixora</h3>
+          <h3>MyVixora</h3>
           <p class="project-subtitle">SEO-Driven Subscription Platform</p>
           <p class="project-description">
             A production subscription platform for the UK market, built on Next.js App Router and deployed
