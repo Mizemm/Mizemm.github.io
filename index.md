@@ -138,9 +138,19 @@ layout: default
           <p class="project-subtitle">SEO-Driven Subscription Platform</p>
           <p class="project-description">
             A production subscription platform for the UK market, built on Next.js App Router and deployed
-            on Vercel. I worked across the full stack — technical SEO, performance, content architecture,
-            and growth features.
+            on Vercel. Genuinely full-stack: a commerce backend with orders, payments, and an authenticated
+            admin dashboard — plus technical SEO, performance, content architecture, and growth features.
           </p>
+          <h4 class="side-label group-label">// backend &amp; commerce</h4>
+          <div class="project-features">
+            <span class="feature">PostgreSQL + Prisma data layer with an Order model tracking plans, payment status, and renewals</span>
+            <span class="feature">API routes for orders, payment sync, and contact — request validation with Zod schemas at the API boundary</span>
+            <span class="feature">Authenticated admin dashboard (bcrypt login) with protected order-management and renewal endpoints</span>
+            <span class="feature">Rate limiting on API routes via Upstash Redis + @upstash/ratelimit</span>
+            <span class="feature">Transactional email with Resend for order and contact notifications</span>
+            <span class="feature">Checkout flow wired end-to-end into the orders / payment-sync API</span>
+          </div>
+          <h4 class="side-label group-label">// seo &amp; growth</h4>
           <div class="project-features">
             <span class="feature">Full technical SEO audit — crawlability, indexation, Core Web Vitals — with a follow-up audit to measure impact</span>
             <span class="feature">Diagnosed and fixed an LCP regression by tracing it to next/image priority hints on above-the-fold images</span>
@@ -159,6 +169,11 @@ layout: default
             <span class="tech-badge">MDX</span><span class="tech-badge">Prisma</span>
             <span class="tech-badge">PostgreSQL</span><span class="tech-badge">Vercel</span>
           </div>
+          <h4 class="side-label">// backend</h4>
+          <div class="project-tech">
+            <span class="tech-badge">Upstash Redis</span><span class="tech-badge">Resend</span>
+            <span class="tech-badge">Zod</span><span class="tech-badge">bcrypt</span>
+          </div>
           <h4 class="side-label">// tooling</h4>
           <div class="project-tech">
             <span class="tech-badge">Search Console API</span><span class="tech-badge">GA4</span>
@@ -166,6 +181,7 @@ layout: default
           </div>
           <h4 class="side-label">// skills</h4>
           <div class="project-tech">
+            <span class="tech-badge">Full-Stack Architecture</span><span class="tech-badge">API &amp; Auth Design</span>
             <span class="tech-badge">Technical SEO</span><span class="tech-badge">Core Web Vitals</span>
             <span class="tech-badge">SSR-safe React</span><span class="tech-badge">Content Strategy</span>
           </div>

@@ -401,6 +401,8 @@ nav {
   letter-spacing: 0.08em; margin-bottom: 0.7rem;
 }
 .spotlight-side .project-tech { margin-bottom: 1.5rem; }
+.spotlight-main .group-label { margin-top: 1.5rem; }
+.spotlight-main .group-label:first-of-type { margin-top: 0; }
 .spotlight-side .project-tech:last-child { margin-bottom: 0; }
 @media (max-width: 900px) {
   .spotlight-body { grid-template-columns: 1fr; gap: 2rem; }
