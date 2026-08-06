@@ -147,7 +147,7 @@ layout: default
             <span class="feature">Live state synchronization</span>
           </div>
           <div class="project-links">
-            <a href="https://github.com/Mizemm" target="_blank" rel="noopener" class="project-link">&lt;/&gt; Code</a>
+            <a href="https://github.com/Mizemm/ft_transcendence" target="_blank" rel="noopener" class="project-link">&lt;/&gt; Code</a>
           </div>
         </div>
       </div>
@@ -174,7 +174,7 @@ layout: default
             <span class="feature">Signal handling</span>
           </div>
           <div class="project-links">
-            <a href="https://github.com/Mizemm" target="_blank" rel="noopener" class="project-link">&lt;/&gt; Code</a>
+            <a href="https://github.com/Mizemm/minishell" target="_blank" rel="noopener" class="project-link">&lt;/&gt; Code</a>
           </div>
         </div>
       </div>
@@ -201,7 +201,7 @@ layout: default
             <span class="feature">Production-ready setup</span>
           </div>
           <div class="project-links">
-            <a href="https://github.com/Mizemm" target="_blank" rel="noopener" class="project-link">&lt;/&gt; Code</a>
+            <a href="https://github.com/Mizemm/Inception" target="_blank" rel="noopener" class="project-link">&lt;/&gt; Code</a>
           </div>
         </div>
       </div>
