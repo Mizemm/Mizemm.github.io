@@ -20,7 +20,6 @@ show_excerpts: true
 timezone: Africa/Casablanca
 
 # ==================== NAVIGATION MENU ====================
+# Navigation is handled by the custom layout (_layouts/default.html).
 header_pages:
   - index.md
-  - projects.md
-  - about.md
