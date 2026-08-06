@@ -30,7 +30,7 @@ layout: default
     </div>
     <div class="hero-image">
       <div class="frame">
-        <img src="images/mizem.jpeg" alt="Mohammed Amine Izem" class="profile-photo">
+        <img src="images/mizem.png" alt="Mohammed Amine Izem" class="profile-photo">
       </div>
       <div class="hero-float a"><span class="tag">const</span> role = <span class="tag">"dev"</span></div>
       <div class="hero-float b">⚡ real-time &amp; systems</div>
