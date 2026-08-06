@@ -130,7 +130,7 @@ layout: default
         <span class="project-index">01</span>
       </div>
       <div class="spotlight-image">
-        <img src="images/vixora.png" alt="MyVixora platform">
+        <img src="images/vixora.png?v=2" alt="MyVixora platform">
       </div>
       <div class="spotlight-body">
         <div class="spotlight-main">
